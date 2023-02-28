@@ -1,0 +1,343 @@
+,Address,Location,Bedroom,Bathroom,PropertyType,Price,Predictions
+0,"10 Killarney Street, Dublin 1, North Strand, Dublin 3",1,0,0,0,900,1
+1,"Kimmage Road West, Kimmage, Dublin 12",6,1,1,1,920,4
+2,"Quay Street, Balbriggan, Co. Dublin",5,1,1,1,1100,5
+3,"Flat 4, 6 Waverley Terrace, Kenilworth Square Nort, Dublin 6W",4,1,1,1,1100,4
+4,"Wellmount Court, Finglas West, Finglas, Dublin 11",6,0,0,0,1100,2
+5,"Flat 8, 57 Rathmines Road Upper, Rathmines, Dublin 6",5,0,0,0,1122,5
+6,"Naas Road, Bluebell, Dublin 12",6,0,0,0,1040,4
+7,"Old Bawn, Tallaght, Dublin 24",6,1,1,1,1200,6
+8,"Lambay Road, Drumcondra, Dublin 3",3,1,1,1,1120,3
+9,"Ranelagh Road, Ranelagh, Dublin 6",5,0,0,0,1140,5
+10,90 Drumcondra Road Upper,5,1,1,1,1240,5
+11,"Apartment 2, 26 Marlborough Street, Dublin 1",1,1,1,1,1300,1
+12,"Carnegie Court Apartments, Swords, Co. Dublin",5,1,1,1,1300,5
+13,"66 Blessington Street, Dublin 7, Phibsborough, Dublin 7",1,0,0,0,1300,1
+14,"Forest Hills, Rathcoole, Co. Dublin",5,1,1,1,1300,5
+15,"Beverton Court, Donabate, Co. Dublin",5,1,1,1,1300,5
+16,"North Circular Road, Dublin 7",1,1,1,1,1305,1
+17,"2A, 72 Drumcondra Road Lower",5,1,1,1,1319,5
+18,"2 Bedroom Apartment, Number 1 Ballsbridge, Shelbourne Road, Dublin 4",1,2,3,1,4000,1
+19,"Apartment 704, Longboat Quay North Apartments, Sir, Grand Canal Dock, Dublin 2",1,2,2,1,3950,1
+20,"Rathvilly Drive, Finglas, Dublin 11",6,4,2,2,3500,2
+21,"Apartment 17, Saint Jamess Court, Dublin 8",1,2,1,1,2500,1
+22,"40 Castlewood Avenue, Dublin 6",5,2,1,1,4100,5
+23,"Apartment 80, Poplar, Trimbleston, Goatstown Road, Dublin 14",6,2,2,1,2750,5
+24,"7 Birch Dale, Westminster Park, Dublin 18, Dublin 18",6,4,3,2,4000,5
+25,"Apartment 10, The Pine, Trimbleston, Goatstown Roa, Dublin 14",6,2,2,1,2750,5
+26,"Marianella, Orwell Road, Rathgar, Dublin 6",5,1,1,1,2500,5
+27,"55 Percy Place, Ballsbridge, Dublin 4",1,2,2,1,4500,1
+28,"8 Fernleigh Park, Dublin 15, Dublin 15",3,3,3,2,2800,2
+29,"Sorrento Road, Dalkey, Co. Dublin",5,2,1,2,2495,5
+30,"Rockfort Avenue, Dalkey, Co. Dublin",5,1,1,1,1995,5
+31,"Mountjoy Square East, Dublin 1",1,1,1,1,1570,1
+32,"Merrion Street, Dublin 2",1,2,2,1,8670,1
+33,"Apartment 9, Lock House 2, Charlemont Lane, Dublin 2",1,3,2,1,4700,1
+34,"Apartment 7, Lock House 1, Charlemont Lane, Dublin 2",1,2,2,1,3400,1
+35,"The Barrington, Lansdowne Place, Ballsbridge, Dublin 4",1,2,2,1,6042,1
+36,"Apartment 138, Rathborne Court, Dublin 15, Dublin 15",3,2,2,1,2500,2
+37,"Apartment 149, Bloomfield Park, Donnybrook, Dublin 4",1,2,2,1,3200,1
+38,"14 Moyne Road, Dublin 6, Ranelagh, Dublin 6",5,1,1,1,1600,5
+39,"5 Pembroke Cottages, Dublin 4, Donnybrook, Dublin 4",1,2,2,2,3000,1
+40,"Flat 12, Clarinda Park House, Dun Laoghaire, Co. Dublin",5,2,1,1,2600,5
+41,"104 Cubes 3, Beacon South Quarter, Sandyford, Dublin 18",6,2,2,1,2395,5
+42,"Apartment 194, Burnell Court, Mayne River Road Eas, Clonshaugh, Dublin 17",6,1,1,1,1550,2
+43,"Naas Road, Bluebell, Dublin 12",6,0,0,0,1040,4
+44,"188 Landen Road, Ballyfermot, Dublin 10",4,3,1,2,1502,4
+45,Washington Green,5,4,3,2,3200,5
+46,77 Castlefield Hall,5,3,3,2,2662,5
+47,"Rockview, Blackglen Road, Sandyford, Dublin 18",6,3,2,1,2400,5
+48,"Apartment 5, Howth Lodge, Howth, Dublin 13",3,2,2,1,2557,3
+49,"31 Watson Avenue, Killiney, Co. Dublin",5,4,3,2,2600,5
+50,"Johnstown House, Glasnevin, Dublin 9",2,1,1,1,1540,2
+51,"Beech House, Mespil Estate, Dublin 4",1,1,1,1,2400,1
+52,"10 Killarney Street, Dublin 1, North Strand, Dublin 3",1,0,0,0,900,1
+53,"Old Cabra Road, Dublin 7",1,1,1,1,2100,1
+54,"The Grange, Brewery Rd, Sandyford, Dublin 18",6,2,2,1,3000,5
+55,"48 North Circular Road, Dublin 7, North Circular Road, Dublin 7",1,1,1,1,1750,1
+56,"Gate Lodge, Dundrum Castle, Ballinteer Road, Dundrum, Dublin 14",6,2,2,2,2850,5
+57,"College Gate, Castleknock, Dublin 15",3,4,2,2,2600,2
+58,"Merchant Square, East Wall, Dublin 3",3,2,1,2,2500,3
+59,"Apartment 90, Harbour View, Harbour Square, Dun Laoghaire, Co. Dublin",5,1,2,1,2673,5
+60,"29 Oaklands Crescent, Rathgar, Dublin 6",5,2,1,2,2300,5
+61,"Orwell Hall, Marianella, Rathgar, Dublin 6",5,2,2,1,3529,5
+62,"Apt. 26 The Lime, Rockfield, Dundrum, Dublin 14",6,2,2,1,2350,5
+63,"Apartment 613, The Cubes 3, Beacon South Quarter, Sandyford, Dublin 18",6,1,1,1,2100,5
+64,"17 Knocklyon Grove, Templeogue, Knocklyon, Dublin 16",6,2,2,2,2244,5
+65,"28 gardiner place , Dublin 1",1,1,1,1,1700,1
+66,"Saint Maelruan's Park, Tallaght, Dublin 24",6,3,1,2,2800,6
+67,"123 Oliver Plunkett Road, Monkstown, Co. Dublin",5,2,1,2,2200,5
+68,"Cloragh Mills, Edmondstown Road, Rathfarnham, Dublin 14",6,2,2,1,1769,5
+69,"Apartment 43, The Moyle, Prospect Hill, Finglas, Dublin 11",6,1,1,1,1600,2
+70,"92 Bridge Water Quay, Islandbridge, Dublin 8",1,2,1,1,2024,1
+71,"Apartment Block 1/2, Gracepark Manor, Drumcondra, Dublin 3",3,2,2,1,2400,3
+72,"Apartment 25, Shelbourne Park Mews, Dublin 4",1,2,1,1,2224,1
+73,"Longford Terrace, Monkstown, Monkstown, Co. Dublin",5,4,3,2,8500,5
+74,"Apartment 40, Brooklands, Ballsbridge, Dublin 4",1,2,1,1,2500,1
+75,"Ross, Seafield Road, Killiney, Co. Dublin",5,3,3,2,6000,5
+76,"Honeysuckle Mews, 33A Park Avenue, Sandymount, Dublin 4",1,3,3,2,7000,1
+77,"Park House, Eglinton Terrace",5,1,2,1,1800,5
+78,"Grange View Walk, Clondalkin, Dublin 22",6,3,2,2,2300,4
+79,"Cedarbrook Avenue, Cherry Orchard, Dublin 22",6,2,1,1,1671,4
+80,"Kilwarden Court, Clondalkin, Dublin 22",6,2,1,1,1900,4
+81,"Virginia Heights, Tallaght, Dublin 24",6,2,2,1,1950,6
+82,"Cherryfield Park, Hartstown, Dublin 15",3,3,1,2,2153,2
+83,"Armagh Road, Crumlin, Dublin 12",6,1,2,1,1750,4
+84,"Belfry Avenue, Citywest, Dublin 24, Co. Dublin",6,1,1,1,1500,6
+85,"Cabra Drive, Cabra, Dublin 7",1,4,1,2,3000,1
+86,"Killinarden Heights, Tallaght, Dublin 24",6,3,1,2,2300,6
+87,"Rugby Road, Ranelagh, Dublin 6",5,2,1,2,2482,5
+88,"Ellensborough Lodge, Tallaght, Dublin 24",6,2,1,1,1950,6
+89,"Kilclare Drive, Tallaght, Dublin 24",6,2,2,2,2100,6
+90,"Grange View Walk, Clondalkin, Dublin 22",6,3,2,1,2300,4
+91,"The Maples, Dunstaffneage, Stillorgan, Co. Dublin",5,1,1,1,1683,5
+92,"Wellington Quay, Dublin 2",1,1,2,1,2206,1
+93,"Castlegrange, Clondalkin, Dublin 22",6,3,1,2,2100,4
+94,"Bertram Court, Dublin 8",1,1,1,1,1800,1
+95,"The Granary, Distillery Lofts, Drumcondra, Dublin 8, Dublin 3",1,2,2,1,3000,1
+96,"Beaumont Avenue, Churchtown, Dublin 14",6,3,3,2,4000,5
+97,"Kilcronan Avenue, Clondalkin, Dublin 22",6,3,1,2,2400,4
+98,"Elm Mount Road, Beaumont, Dublin 9",2,3,1,2,2600,2
+99,"Blessington Street, Dublin 7",1,1,1,1,1450,1
+100,"Geraldstown Woods, Santry, Dublin 9",2,2,2,1,2100,2
+101,"Willow Drive, Clondalkin, Dublin 22",6,3,1,2,2500,4
+102,"The Granary, Distillery Lofts, Drumcondra, Dublin 3",3,3,3,1,5000,3
+103,"Glasaree Road, Finglas East",5,3,1,2,2500,5
+104,"Seagrave Drive, Finglas, Dublin 11",6,2,2,1,1850,2
+105,"Grange View Drive, Clondalkin, Dublin 22",6,3,2,2,2400,4
+106,"The Oaks, Herbert Park Lane, Anglesea Road, Ballsbridge, Dublin 4",1,1,1,1,2200,1
+107,"Wellmount Court, Finglas West, Finglas, Dublin 11",6,0,0,0,1100,2
+108,"Belfry Manor, Citywest, Co. Dublin",5,2,1,1,1900,5
+109,"Knockmaree, Chapelizod, Dublin 20",4,2,1,1,2229,4
+110,"Cedarbrook Way, Cherry Orchard, Dublin 10, Dublin 22",4,2,2,1,1916,4
+111,"The Ash, Parkview",5,2,2,1,2600,5
+112,"Dunsoghly Park, Finglas, Dublin 11",6,3,2,2,2044,2
+113,"Grange View Walk, Clondalkin, Dublin 22",6,3,2,2,2300,4
+114,"Cedarbrook Avenue, Cherry Orchard, Dublin 22",6,2,1,1,1671,4
+115,"Kilwarden Court, Clondalkin, Dublin 22",6,2,1,1,1900,4
+116,"Virginia Heights, Tallaght, Dublin 24",6,2,2,1,1950,6
+117,"Cherryfield Park, Hartstown, Dublin 15",3,3,1,2,2153,2
+118,"Croaghpatrick Rd, Navan Road (D7), Dublin 7",1,3,1,2,2400,1
+119,"13 Inverness Road, Fairview",5,5,3,2,4750,5
+120,"Apartment 37, The Lighthouse, Dun Laoghaire, Co. Dublin",5,2,2,1,2600,5
+121,"6 Camberely Mews, Churchtown Road, Churchtown, Dublin 14",6,4,3,2,3708,5
+122,"6 Camberely Mews, Churchtown Road, Churchtown, Dublin 14",6,4,3,2,3708,5
+123,"Flat 12, 42 Rathmines Road Lower, Rathmines, Dublin 6",5,0,0,0,1550,5
+124,"Flat 1, 42 Rathmines Road Lower, Rathmines, Dublin 6",5,1,1,1,2200,5
+125,"St.Ignatius Road, Phibsborough, Dublin 7",1,3,1,1,3000,1
+126,"Apartment 6, 46 Rathmines Road Lower",5,1,1,1,2600,5
+127,"11 Alderwood Green, Springfield, Tallaght, Dublin 24",6,3,1,2,2850,6
+128,"Apartment 1, 18 Richmond Hill, Rathmines, Dublin 6",5,1,1,1,2200,5
+129,"Island View Court, Raheny, Dublin 5",3,2,2,1,1800,3
+130,"Kenilworth Manor, Terenure, Dublin 6",5,2,1,1,1897,5
+131,"Apartment 7, 46 Rathmines Road Lower",5,1,1,1,2200,5
+132,"27 Riverwood Court, Castleknock, Carpenterstown, Dublin 15",3,3,2,2,2650,2
+133,"40 Meadow Park, Churchtown, Dublin 14",6,3,1,2,2850,5
+134,"Apartment 4, 18 Richmond Hill, Rathmines, Dublin 6",5,0,0,0,1850,5
+135,"Apartment 26, The Oaks, Ashtown, Dublin 15",3,3,3,1,2975,2
+136,"32 Elgin Road, Ballsbridge, Dublin 4",1,1,1,1,2200,1
+137,138 Rathgar Road,5,1,1,1,2200,5
+138,"Apartment 1, 28 Elgin Road, Ballsbridge, Dublin 4",1,0,0,0,2100,1
+139,"Tyrconnell Rd, Inchicore, Dublin 8",1,0,0,0,2800,1
+140,"North Circular Road, Dublin 7",1,1,1,1,1305,1
+141,"42 Lansdowne Village, Sandymount, Dublin 4",1,2,1,2,2500,1
+142,"32 Waterloo Road - 4, Dublin 4",1,2,1,1,3300,1
+143,"45 Gordon Street, Ringsend, Dublin 4",1,3,2,2,4500,1
+144,"Apartment 4, Hanbury Mews, Dublin 8",1,1,1,1,1835,1
+145,"Kilmainham Bank, Dublin 8",1,3,2,1,4000,1
+146,"2 Kenilworth Lane West, Ranelagh, Dublin 6",5,3,3,2,4750,5
+147,"4 Kenilworth Lane West, Ranelagh, Dublin 6",5,3,4,2,4750,5
+148,"Sandford Avenue, Ranelagh, Dublin 6",5,4,3,2,8000,5
+149,"22 Priory Hall, Manor Grove",5,3,2,1,2600,5
+150,"146 Stillorgan Road, Dublin 4",1,4,3,2,4971,1
+151,"Reuben Square, Dolphin's Barn Street, Dublin 8",1,1,1,1,1850,1
+152,"InterContinental Hotel, Ballsbridge, Dublin 4",1,2,2,1,7500,1
+153,"The Sweepstakes, Dublin 4",1,2,2,1,3000,1
+154,"The Lodge, Garville Place, Rathgar, Dublin 6",5,2,2,2,3000,5
+155,"Shelbourne Court, Shelbourne Lane, Ballsbridge, Dublin 4",1,2,2,1,3227,1
+156,"7A Fownes Street Upper, Dublin 2",1,1,1,1,2000,1
+157,"Brighton Green, Rathgar, Dublin 6",5,2,1,2,3000,5
+158,"Baggot Lane, Ballsbridge, Dublin 4",1,4,1,2,4000,1
+159,"Park Lane, Sandymount, Dublin 4",1,3,2,2,4000,1
+160,"Park Avenue, Sandymount, Dublin 4",1,4,3,2,8000,1
+161,"Linden Court, Blackrock, Co. Dublin",5,1,1,1,2000,5
+162,"Howth Road, Howth, Dublin 13",3,4,4,2,6000,3
+163,"26 Deerpark Road, Kiltipper, Dublin 24",6,2,2,1,2300,6
+164,"Baltrasna House, IFSC, Dublin 1",1,2,2,1,2800,1
+165,"Saint Peter's Road, Phibsborough, Dublin 7",1,3,1,2,3500,1
+166,"66 Alderpark Court, Tallaght, Dublin 24",6,2,1,1,2400,6
+167,"Apartment 7, Swift House, Ardilaun Court, Dublin 8",1,1,1,1,2100,1
+168,"Apartment 126, Premier Square",5,2,1,1,2400,5
+169,"Nerano Road, Dalkey, Co. Dublin",5,4,2,2,12000,5
+170,"Amberley, Ballybetagh Road, Glencullen, Co. Dublin",5,5,4,2,5500,5
+171,"Avoca Park, Blackrock, Co. Dublin",5,4,2,2,4080,5
+172,"Kilmore Avenue, Killiney, Co. Dublin",5,4,4,2,12000,5
+173,"Glenageary Lodge, Glenageary, Co. Dublin",5,4,2,2,3800,5
+174,"Brighton Square, Rathgar, Dublin 6",5,3,1,2,3500,5
+175,"River Drive, Royal Canal Park, Ashtown, Dublin 15",3,4,4,2,3500,2
+176,"Goldsmith Hall, Castleknock, Dublin 15",3,3,3,1,2700,2
+177,"Ashton Park, Monkstown, Co. Dublin",5,4,4,2,5000,5
+178,"Jamestown Road, Finglas, Dublin 11",6,1,1,1,1382,2
+179,"Raglan Hall, Clyde Road, Ballsbridge, Dublin 4",1,2,2,1,3150,1
+180,"Apartment 24, Atrium Apartments, Dublin 8",1,1,1,1,1717,1
+181,"Apartment 23, 25 Wolfe Tone Street, Dublin 1",1,1,1,1,1823,1
+182,"Apt 11, 99 Capel Street, D01 C6C2, Dublin 1",1,2,1,1,2500,1
+183,"Apt 7, Georges Quay Apartments, Dublin 2",1,1,1,1,1726,1
+184,"Apt 94, Mayeston Court, D11 YW74",5,1,1,1,1614,5
+185,"Apartment 3, 151/152 Parnell Street, D01 CH27, Dublin 1",1,1,1,1,1594,1
+186,"Apartment 6, The Weir",5,2,2,1,2923,5
+187,"1a Ardlea Road, Dublin 5, Dublin 5",3,2,1,1,2500,3
+188,"25 Wolfe Tone Street, Dublin 1",1,2,1,1,2750,1
+189,"7 Richview Villas, Clonskeagh",5,4,3,2,8000,5
+190,139 Rathgar Road,5,6,3,2,7000,5
+191,"150 Howth Road, Clontarf, Dublin 3",3,2,3,1,3645,3
+192,"189 Collins Avenue, Whitehall, Dublin 9",2,3,2,2,3500,2
+193,"Saint Columba's Road Upper, Drumcondra, Dublin 3",3,2,1,1,1700,3
+194,"1B Willow Park Lawn, Glasnevin, Dublin 11",6,2,3,2,3000,2
+195,"29 Haddington Square, Beggar's Bush, Dublin 4",1,2,1,2,3200,1
+196,"The Mews Violet Hill, Kilgobbin Road, Stepaside, Dublin 18",6,1,1,1,2000,5
+197,"Apartment 2 Danes Court, Clontarf Road D03 PK77, Clontarf, Dublin 3",3,2,1,1,2246,3
+198,"Haddington Road, Dublin 4",1,2,2,1,3000,1
+199,"45 Serpentine Avenue, Ballsbridge, Sandymount, Dublin 4",1,4,2,2,5000,1
+200,"Crannog, Taney Park, Dundrum, Dublin 14",6,4,3,2,4736,5
+201,"Westminster Road, Foxrock, Dublin 18",6,4,3,2,8000,5
+202,"13A Grattan Crescent, Inchicore, Dublin 8",1,2,2,1,2800,1
+203,"Windgate House, Windgate Road, Howth, Dublin 13",3,2,2,2,3500,3
+204,5 Belgrave Terrace,5,1,1,1,1750,5
+205,"Knockmaree, Chapelizod, Dublin 20",4,3,2,1,2950,4
+206,"Grand Canal Street Lower, Dublin 2",1,2,1,1,2400,1
+207,Liffey Street South,5,2,1,2,2350,5
+208,"Apartment 7, Hillcrest Court",5,2,1,1,2300,5
+209,"8 Church Avenue, East Wall, Dublin 3",3,3,2,2,2284,3
+210,"5 Church View, Hollystown, Dublin 15",3,5,4,2,2800,2
+211,"Whitethorn Rise, Artane, Dublin 5",3,3,3,2,2698,3
+212,"10 Beaumont Crescent, Beaumont, Dublin 9",2,4,2,2,3000,2
+213,"Flat 4, 161 James's Street, Dublin 8",1,1,1,1,2000,1
+214,"Lanesborough Mews, Finglas, Dublin 11",6,3,2,1,2950,2
+215,"36 Edenvale Road Ranelagh, Ranelagh, Dublin 6",5,4,4,2,5500,5
+216,"Shieling Square, Raheny, Dublin 5",3,2,2,1,2100,3
+217,"36 Edenvale Road Ranelagh, Ranelagh, Dublin 6",5,4,4,2,5500,5
+218,"Monck Place, Phibsborough, Dublin 7",1,1,1,1,2000,1
+219,"Marlborough Court, Dublin 1",1,1,1,1,2000,1
+220,"Jervis Place, Upper Abbey Street, Dublin 1",1,1,1,1,1836,1
+221,"Mercer Lodge, Mercer Vale, Cherrywood, Co. Dublin",5,2,2,1,3000,5
+222,"Apartment 7, Cypress, Hazeldene, Ballsbridge, Dublin 4",1,2,2,1,3875,1
+223,"Thomas Moore Road, Walkinstown, Dublin 12",6,0,1,0,1600,4
+224,"38 Waterloo Road, Dublin 4, Dublin 4",1,2,2,1,3200,1
+225,"Bushy Park House, Terenure, Dublin 12",6,2,2,1,2650,4
+226,"1 Mercer Lodge Dublin 18, Cherrywood, Co. Dublin",6,2,2,1,2650,5
+227,"cloverhill road area, Palmerstown, Dublin 20",4,2,1,1,2500,4
+228,"Flat 8, 57 Rathmines Road Upper, Rathmines, Dublin 6",5,0,0,0,1122,5
+229,"20 Christchurch Place, Dublin 8, Christchurch, Dublin 8",1,1,1,1,1600,1
+230,"6 Old Court Lawn, Dublin 24, Ballycullen, Dublin 16",6,3,2,2,2650,6
+231,"51 Palmerstown Drive, Dublin 20, Dublin 20",4,3,1,2,2600,4
+232,"Castlepark Road, Dalkey, Co. Dublin",5,1,1,1,4000,5
+233,"Orchard Lane, Blackrock, Co. Dublin",5,3,2,2,2668,5
+234,"112 Shrewsbury Park, Ballsbridge, Dublin 4",1,2,2,1,3500,1
+235,"102 Windmill Park, Dublin 12, Crumlin, Dublin 12",6,2,1,2,2650,4
+236,"Kimmage Road West, Kimmage, Dublin 12",6,1,1,1,920,4
+237,"Scariff House Custom House Square, IFSC, Dublin 1",1,1,1,1,1850,1
+238,"Fern Court, Stepaside Park, Stepaside, Dublin 18",6,2,2,1,1975,5
+239,"7 Boyne House, Custom House Square, Mayor Street L, North Wall, Dublin 1",1,1,1,1,1800,1
+240,"Loreto Abbey, Rathfarnham, Dublin 14",6,2,2,1,2100,5
+241,90 Drumcondra Road Upper,5,1,1,1,1240,5
+242,"Collins Avenue Extension, Glasnevin, Dublin 11",6,4,1,2,2395,2
+243,"Flat 1, 15 Sherrard Street Lower, Dublin 1, Drumcondra, Dublin 3",1,0,1,0,1650,1
+244,"66 Blessington Street, Dublin 7, Phibsborough, Dublin 7",1,0,0,0,1300,1
+245,"Lambay Road, Drumcondra, Dublin 3",3,1,1,1,1120,3
+246,"Gardiner Place, Dublin 1",1,2,1,1,1950,1
+247,"Apartment 2, 26 Marlborough Street, Dublin 1",1,1,1,1,1300,1
+248,"Ros Mor View Apts, Knocklyon, Dublin 16",6,3,1,1,3500,5
+249,"Brighton Avenue, Rathgar, Dublin 6",5,1,1,1,2200,5
+250,"APARTMENT 3 CUMBERLAND MEWS CUMBERLAND ROAD, Dublin 2",1,2,1,1,2700,1
+251,"Southdene, Monkstown Valley, Monkstown, Co. Dublin",5,3,1,2,2950,5
+252,"Apartment 2, McGoverns Corner, Dublin 8",1,1,1,1,1800,1
+253,"Apartment 43, Hazelbrook, Kilmacud, Co. Dublin",5,3,3,1,3950,5
+254,"The Crescent, Carrickmines Manor, Glenamuck Rd, Carrickmines, Dublin 18",6,2,2,1,2500,5
+255,"Apartment 22, The Ash, Parkview, Belarmine, Dublin, Sandyford, Dublin 18",5,2,2,1,2800,5
+256,"Longford House, Spencer Dock, Dublin 1",1,2,1,1,2200,1
+257,"198 Killinarden Estate, Tallaght, Dublin 24",6,4,1,2,3200,6
+258,"Old Bawn, Tallaght, Dublin 24",6,1,1,1,1200,6
+259,"Ranelagh Road, Ranelagh, Dublin 6",5,0,0,0,1140,5
+260,"The island, Chapelizod, Dublin 20",4,3,1,1,3500,4
+261,"Apartment 43, Block A, Ardilea Crescent, Ardilea, Clonskeagh, Dublin 14",6,2,2,1,2750,5
+262,"Parnell Road, Harold's Cross, Dublin 6",5,3,1,2,3995,5
+263,"25 Main Street, Dublin 20, Dublin 20",4,1,1,1,1995,4
+264,"29 Clanbrassil Street Lower, Dublin 8",1,0,0,0,1850,1
+265,"29 Clanbrassil Street Lower, Dublin 8",1,0,0,0,1800,1
+266,"29 Clanbrassil Street Lower, Dublin 8",1,1,1,1,2000,1
+267,"Apartment 94, The Westmoreland, Dublin 4",1,2,2,1,2050,1
+268,"29 Clanbrassil Street Lower, Dublin 8",1,1,1,1,2000,1
+269,"Kimmage Road Lower, Kimmage, Dublin 12",6,1,1,1,1800,4
+270,"Custom Hall, Gardiner Street, Dublin 1",1,2,1,1,2100,1
+271,"Westland Square, Pearse Street, Dublin 2",1,2,1,1,2327,1
+272,"Donnybrook Castle, Donnybrook, Dublin 4",1,2,2,1,2750,1
+273,"Elmville, Harolds Cross Road, Harold Cross, Dublin 6W",4,2,2,1,2900,4
+274,"Elmville, Harolds Cross Road, Harold Cross, Dublin 6W",4,2,2,1,2900,4
+275,"Elmville, Harolds Cross Road, Harold Cross, Dublin 6W",4,1,1,1,2400,4
+276,"Tenterfields, South Brown Street, Dublin 8",1,2,1,1,2495,1
+277,"Apartment 93, Fisherman's Wharf, Thorncastle Stree, Dublin 4",1,2,1,1,1985,1
+278,"13 Carrickmines Chase, Carrickmines Wood",5,3,2,2,3500,5
+279,"38 Shelbourne Road, Ballsbridge, Dublin 4",1,3,3,2,6000,1
+280,"Apartment 7, Lansdowne Hall, Naas Road, Dublin 12, Inchicore, Dublin 8",6,2,2,1,2200,4
+281,"Priory East, Navan Road, Navan Road (D7), Dublin 7",1,3,1,2,2750,1
+282,"4c Griffith Lawns, Griffith Avenue, Dublin 9, Drumcondra, Dublin 3",2,2,1,1,2100,2
+283,"Residence, Serpentine road, Ballsbridge, Dublin 4",1,2,3,1,8000,1
+284,"15 Cornmill Apartment, Distillery Road, Clonliffe, Drumcondra, Dublin 3",3,2,2,1,2600,3
+285,"Dunamara, Strand Road, Killiney, Co. Dublin",5,5,4,2,14000,5
+286,"Apartment 8, 38 Haddington Road, Dublin 4, Dublin 4",1,2,2,1,2500,1
+287,"Flat 1, 20 Saint James's Avenue, Dublin 3, Drumcondra, Dublin 3",3,1,1,1,1950,3
+288,"Oxmantown Road, Stoneybatter, Dublin 7",1,2,1,2,2590,1
+289,"Flat 1, 23 Leeson Street Upper, Dublin 4",1,1,1,1,2018,1
+290,"Seapark, Clontarf, Dublin 3",3,2,1,1,2200,3
+291,"Apartment 3 The Beacon, Royal Canal Park, Ashtown, Dublin 15",3,2,2,1,2300,2
+292,"16 Wood Dale View, Ballycullen, Dublin 24",6,4,2,2,4000,6
+293,"Apartment 10, Ashley Court, 31 Clyde Road, Ballsbridge, Dublin 4",1,2,2,1,3300,1
+294,"40 Castlewood Avenue, Rathmines, Dublin 6, Dublin 6",5,1,1,1,2100,5
+295,"Fitzwilliam Point, Fitzwilliam Quay, Dublin 4",1,2,2,1,3050,1
+296,"53 Broadford Avenue, Dublin 16, Dundrum, Dublin 14",6,3,1,2,2900,5
+297,"Old City Music Hall, Christchurch, Dublin 8",1,2,2,1,2800,1
+298,"48 Rathborne Walk, Royal Canal Park, Dublin 15, Ashtown, Dublin 1",3,4,4,2,4495,2
+299,"Knocklyon Gate, Knocklyon, Dublin 16",6,2,2,1,2300,5
+300,"Flat 12, 68 Rathmines Road Upper, Rathmines, Dublin 6",5,1,1,1,1800,5
+301,"102 Dorset Street Upper, Dublin 1",1,0,0,0,1800,1
+302,"Luxury Sea View Killiney, Killiney, Co. Dublin",5,5,3,2,8950,5
+303,"Clarinda Park, Dun Laoghaire, Co. Dublin",5,6,5,2,7200,5
+304,"Westminster Mews, Foxrock, Dublin 18",6,2,2,2,2600,5
+305,"Brewery Road, Stillorgan, Co. Dublin",5,4,3,2,5000,5
+306,"The Court, Killiney, Co. Dublin",5,2,2,1,4000,5
+307,"Killiney Court, Killiney Bay, Killiney, Co. Dublin",5,2,2,1,3500,5
+308,"Chancery Court, Bride Street, Dublin 2",1,2,2,1,2835,1
+309,"6 Garden View, Ranelagh, Dublin 6",5,2,2,2,2585,5
+310,"1C, 72 Drumcondra Road Lower",5,1,1,1,1394,5
+311,"1A, 72 Drumcondra Road Lower",5,2,1,1,1679,5
+312,"1B, 72 Drumcondra Road Lower",5,2,1,1,1678,5
+313,"2A, 72 Drumcondra Road Lower",5,1,1,1,1319,5
+314,"2B, 72 Drumcondra Road Lower",5,1,1,1,1319,5
+315,"3A, 72 Drumcondra Road Lower",5,1,1,1,1319,5
+316,"3B, 72 Drumcondra Road Lower",5,1,1,1,1319,5
+317,"Fernleigh Drive, Carpenterstown, Dublin 15",3,1,1,1,1405,2
+318,"152 Collinswood, Collins Avenue, Collinswood, Dublin 9",2,3,3,2,2850,2
+319,"Apartment 4, The Corn House, Distillery Lofts, Dis, Drumcondra, Dublin 3",3,2,2,1,3000,3
+320,"Luxury 2 bedroom Apartment in the centre of Dun La, 17 Brook House Corrig Avenue, Dun Laoghaire, Co. Dublin",5,2,2,1,4500,5
+321,"Spencer Dock, Dublin 1",1,1,2,1,2200,1
+322,"IFSC, Dublin 1",1,2,1,1,3800,1
+323,"IFSC, Dublin 1",1,1,2,1,2500,1
+324,"Barrow Street, Ballsbridge, Dublin 4",1,1,1,1,3360,1
+325,"IFSC, Dublin 1",1,1,2,1,3500,1
+326,"29 Victoria Street, Portobello, Dublin 8",1,2,1,2,3000,1
+327,"Crescent house,  Clontarf, Fairview, Dublin 3",3,1,1,1,1950,3
+328,"168 Lansdowne Park, Dublin 4, Dublin 4",1,3,2,2,3800,1
+329,"D1 DENTAL CARE, 565 North Circular Road, Dublin 1",1,2,1,1,2175,1
+330,"Leeson Street Upr, Dublin 4",1,2,1,1,2300,1
+331,"The Oaks, Herbert Park Lane, Ballsbridge, Dublin 4",1,1,1,1,2150,1
+332,"Annesley Gardens, Ranelagh, Dublin 6",5,4,4,2,8750,5
+333,"Springvale, Edmondstown Rd, Rathfarnham, Dublin 14",6,3,2,1,2700,5
+334,"Prestigious Penthouse Castlepark Road Dalkey, Co. Dublin, Dalkey",5,3,3,1,5850,5
+335,"North Great George's Street, Dublin 1",1,2,1,1,3800,1
+336,"Penthouse The Oaks, Herbert Park Lane, Ballsbridge, Dublin 4",1,2,2,1,5000,1
+337,"Dodderbank Apartments, Milltown, Dublin 6",5,1,1,1,2400,5
+338,"Shrewsbury Park, Ballsbridge, Dublin 4",1,4,4,2,5621,1
+339,"2A, 74 Drumcondra Road Lower",5,1,1,1,1320,5
+340,"3A, 74 Drumcondra Road Lower",5,2,2,1,1678,5
+341,"2B, 74 Drumcondra Road Lower",5,1,1,1,1320,5
